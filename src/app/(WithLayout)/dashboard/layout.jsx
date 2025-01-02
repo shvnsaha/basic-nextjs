@@ -1,11 +1,13 @@
 import Footer from '@/components/Footer';
 import React from 'react';
 
-const DashboardLayout = ({children}) => {
+const DashboardLayout = ({ children }) => {
     return (
         <div>
-            {children}
-            <Footer/>
+            <div className='min-h-screen'>
+                {children}
+            </div>
+            <Footer />
         </div>
     );
 };

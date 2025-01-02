@@ -1,0 +1,40 @@
+{
+    "shops": [
+        {
+            "id": 1,
+            "title": "Wireless Mouse 9000",
+            "description": "A sleek and ergonomic wireless mouse, perfect for work and gaming.",
+            "price": 25.99
+        },
+        {
+            "id": 2,
+            "title": "Bluetooth Headphones",
+            "description": "Noise-cancelling Bluetooth headphones with long battery life and superior sound quality.",
+            "price": 79.99
+        },
+        {
+            "id": 3,
+            "title": "Smartphone Stand",
+            "description": "Adjustable stand for smartphones, suitable for desk or bedside use.",
+            "price": 12.49
+        },
+        {
+            "id": 4,
+            "title": "Portable Charger",
+            "description": "Compact portable charger with a 10,000mAh capacity for all your devices.",
+            "price": 18.99
+        },
+        {
+            "id": 5,
+            "title": "4K Smart TV",
+            "description": "55-inch 4K UHD Smart TV with streaming capabilities and voice control.",
+            "price": 499.00
+        },
+        {
+            "id": 6,
+            "title": "Fitness Tracker",
+            "description": "A waterproof fitness tracker with heart rate monitoring, sleep tracking, and step counting.",
+            "price": 45.50
+        }
+    ]
+}
